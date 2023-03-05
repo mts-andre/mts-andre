@@ -1,8 +1,20 @@
-### My profile
+<h4>Olá, me chamo Matheus e esse é meu perfil Github, nele você poderá acompanhar minha evolução como desenvolvedor full-stack 💻</h4>
+<h5>Serão armazenados aqui:</h5>
+<ul>
+  <li>Projetos e atividades realizados durante meu curso</li>
+  <li>Exercícios para treinamento</li>
+  <li>Exercícios de plataformas competitivas de programação</li>
+  <li>Projetos pessoais</li>
+</ul>
 
-- 👔 Atualmente estou trabalhando como information technology intern.
-- 📖 Estudando tópicos de desenvolvimento web completo. 
-- 🎓 Cursando Bacharelado em Sistemas de Informação.
+<h5>Sobre mim</h5>
+
+  - 👔 Atualmente estou trabalhando como information technology intern.
+  - 📖 Estudando tópicos de desenvolvimento web completo. 
+  - 🎓 Cursando Bacharelado em Sistemas de Informação.
+
+
+
 ##
 
 <div>
@@ -30,8 +42,8 @@
 
 ##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img width="100px" height="100px" src="https://media.tenor.com/OKLkZ1Um5HIAAAAC/mad-typing.gif">
+
+  <em>
+    Matheus André
+  </em>
