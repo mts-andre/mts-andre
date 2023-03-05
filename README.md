@@ -29,3 +29,5 @@
 </div>
 
 ##
+
+![Snake animation](https://github.com/mts-andre/mts-andre/blob/output/github-contribution-grid-snake.svg)
